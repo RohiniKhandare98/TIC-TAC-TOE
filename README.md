@@ -1,2 +1,2 @@
 # TIC-TAC-TOE
-Open Project -> [LINK](tic-tac-toe-usingjs.netlify.app)
+Open Project -> [LINK](https://tic-tac-toe-usingjs.netlify.app)
